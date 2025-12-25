@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ZOOM",
+  "base_artist": "Jessi",
+  "createdAt": "2025-12-25T01:15:36.625072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boom Boom In The Zoom Zoom Room",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/01_Boom_Boom_In_The_Zoom_Zoom_Room_Blondie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fractal Zoom",
+      "artist": "Brian Eno",
+      "has_synced": true,
+      "path": "select/02_Fractal_Zoom_Brian_Eno.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fractal Zoom (Naive Mix II)",
+      "artist": "Brian Eno",
+      "has_synced": false,
+      "path": "select/03_Fractal_Zoom_(Naive_Mix_II)_Brian_Eno.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fractal Zoom (Separate Time Full Length)",
+      "artist": "Brian Eno",
+      "has_synced": true,
+      "path": "select/04_Fractal_Zoom_(Separate_Time_Full_Length)_Brian_Eno.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zoom",
+      "artist": "Commodores",
+      "has_synced": true,
+      "path": "select/05_Zoom_Commodores.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Zoom",
+      "artist": "Lil Boosie",
+      "has_synced": false,
+      "path": "select/06_Zoom_Lil_Boosie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Zoom",
+      "artist": "Future",
+      "has_synced": true,
+      "path": "select/07_Zoom_Future.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Zoom In",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/08_Zoom_In_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Join Our Club (Chemically Friendly Zoom mix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/09_Join_Our_Club_(Chemically_Friendly_Zoom_mix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Zoom!",
+      "artist": "Super Furry Animals",
+      "has_synced": true,
+      "path": "select/10_Zoom!_Super_Furry_Animals.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Uh, Zoom Zip",
+      "artist": "Soul Coughing",
+      "has_synced": true,
+      "path": "select/11_Uh,_Zoom_Zip_Soul_Coughing.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Zoom",
+      "artist": "Because",
+      "has_synced": false,
+      "path": "select/12_Zoom_Because.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ZOOM",
+      "artist": "Jessi",
+      "has_synced": true,
+      "path": "select/13_ZOOM_Jessi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Zoom (Extended Version)",
+      "artist": "Commodores",
+      "has_synced": false,
+      "path": "select/14_Zoom_(Extended_Version)_Commodores.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ZOOM",
+      "artist": "Jessi",
+      "has_synced": false,
+      "path": "select/pl_01_ZOOM_Jessi.txt"
+    }
+  ]
+}
